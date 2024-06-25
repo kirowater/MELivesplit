@@ -4,3 +4,6 @@ A livesplit overlay for Mirror's Edge (WIP)
 1. Download the latest zip file from <a href="https://github.com/kirowater/MELivesplit/releases">here</a>.
 2. Unzip the files
 2. Inject the dll when Mirror's Edge is running.
+
+## Preview
+[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/RHCmfNBMeT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=RHCmfNBMeT4)
